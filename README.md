@@ -4,8 +4,11 @@
 
 *Aqui encontra-se a pagína que venho desenvolvendo no Git Hub*
 
+[Github](https://github.com/Lakersamerica/pedrosomotors.git)
+
+
 **Estou tendo uma grande experiência com as aulas**
 
 
 
-![](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+![](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png)
