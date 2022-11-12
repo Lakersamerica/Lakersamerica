@@ -2,7 +2,7 @@
 
 &#10142;*Estou estudando no Colégio Estadual do Campo de Rio do Couro, atualmente aprendo Pensamento Computacional!*
 
-*Aqui encontra-se a pagína que venho desenvolvendo no Git Hub*
+*Aqui encontra-se a pagína que venho desenvolvendo no Git Hub !*
 
 [Github](https://github.com/Lakersamerica/pedrosomotors.git)
 
